@@ -27,6 +27,8 @@ namespace fignochi
         {
             int start = 0;
             int slut = 30;
+
+            //hej christofer
                
 
             int prevprev = -1;
